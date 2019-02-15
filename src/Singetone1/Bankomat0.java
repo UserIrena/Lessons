@@ -12,6 +12,7 @@ package Singetone1;
 public class Bankomat0 {
     static int money = 100;
     
+    
     static void getMoney(int ) 
     
 }
